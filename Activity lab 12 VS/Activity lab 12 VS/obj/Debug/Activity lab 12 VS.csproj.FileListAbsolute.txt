@@ -1,0 +1,8 @@
+C:\Users\233511\Desktop\Activity lab 12 VS\Activity lab 12 VS\bin\Debug\Activity lab 12 VS.exe.config
+C:\Users\233511\Desktop\Activity lab 12 VS\Activity lab 12 VS\bin\Debug\Activity lab 12 VS.exe
+C:\Users\233511\Desktop\Activity lab 12 VS\Activity lab 12 VS\bin\Debug\Activity lab 12 VS.pdb
+C:\Users\233511\Desktop\Activity lab 12 VS\Activity lab 12 VS\obj\Debug\Activity lab 12 VS.csproj.AssemblyReference.cache
+C:\Users\233511\Desktop\Activity lab 12 VS\Activity lab 12 VS\obj\Debug\Activity lab 12 VS.csproj.SuggestedBindingRedirects.cache
+C:\Users\233511\Desktop\Activity lab 12 VS\Activity lab 12 VS\obj\Debug\Activity lab 12 VS.csproj.CoreCompileInputs.cache
+C:\Users\233511\Desktop\Activity lab 12 VS\Activity lab 12 VS\obj\Debug\Activity lab 12 VS.exe
+C:\Users\233511\Desktop\Activity lab 12 VS\Activity lab 12 VS\obj\Debug\Activity lab 12 VS.pdb
